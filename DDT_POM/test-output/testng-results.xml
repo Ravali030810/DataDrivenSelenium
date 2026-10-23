@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Login Success]]>
+    </line>
+    <line>
+      <![CDATA[No of roes are::9]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee Success:  0812  0812]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee Success:  0813  0813]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee Success:  0814  0814]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee Success:  0815  0815]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee Success:  0816  0816]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee Success:  0817  0817]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee Success:  0818  0818]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee Success:  0819  0819]]>
+    </line>
+    <line>
+      <![CDATA[Add Employee Success:  0820  0820]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-10-13T23:18:59 IST" name="Default suite" finished-at="2026-10-13T23:20:16 IST" duration-ms="76710">
+    <groups>
+    </groups>
+    <test started-at="2026-10-13T23:18:59 IST" name="Default test" finished-at="2026-10-13T23:20:16 IST" duration-ms="76710">
+      <class name="driverfactory.DriverScript">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driverfactory.DriverScript@6989da5e]" started-at="2026-10-13T23:18:59 IST" name="setUp" finished-at="2026-10-13T23:19:14 IST" duration-ms="14338" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateEmp()[pri:0, instance:driverfactory.DriverScript@6989da5e]" started-at="2026-10-13T23:19:14 IST" name="validateEmp" finished-at="2026-10-13T23:20:13 IST" duration-ms="59053" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[No of roes are::9]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee Success:  0812  0812]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee Success:  0813  0813]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee Success:  0814  0814]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee Success:  0815  0815]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee Success:  0816  0816]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee Success:  0817  0817]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee Success:  0818  0818]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee Success:  0819  0819]]>
+            </line>
+            <line>
+              <![CDATA[Add Employee Success:  0820  0820]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateEmp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:driverfactory.DriverScript@6989da5e]" started-at="2026-10-13T23:20:13 IST" name="tearDown" finished-at="2026-10-13T23:20:16 IST" duration-ms="3237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- driverfactory.DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
